@@ -10,4 +10,8 @@ class GameObject {
     });
   }
 
+  update() {
+    
+  }
+
 }
